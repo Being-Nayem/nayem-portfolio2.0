@@ -3,8 +3,8 @@
 
 <img src="src/img/ss.png" alt="banner"/>
 
-## Demo
-[Demo](https://uxui-profile.netlify.app/)
+## Live
+[Live](https://nayem-sarwar-chowdhury.netlify.app/)
 
 ## Features
 
