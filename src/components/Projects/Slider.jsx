@@ -11,26 +11,32 @@ let data = [
     {
         img :  mock1,
         disc : "Logeachi.com (Team Project)",
-        liveServer : "https://beingnayem.pythonanywhere.com/",
+        liveServer : "https://logeachi-app-dhe3o.ondigitalocean.app/",
         github : "https://github.com/Being-Nayem/logeachi.com"
     },
     {
         img : mock2,
         disc : "Restaurant Billing System",
-        liveServer : "/",
+        // liveServer : "/",
         github : "https://github.com/Being-Nayem/Restaurant-Billing-System"
     },
     {
         img : mock3,
         disc : "Cinema Hall Seat Booking",
-        liveServer : "/",
+        // liveServer : "/",
         github : "https://github.com/Being-Nayem/Cinema-Hall-Seat-Booking-System"
     },
     {
         img : mock3,
         disc : "Task Manager",
-        liveServer : "/",
-        github : "https://github.com/Being-Nayem/-Libary-Management"
+        // liveServer : "/",
+        github : "https://github.com/Being-Nayem/Task-Manager-Using-Python"
+    },
+    {
+      img :  mock3,
+      disc : "Library Management System",
+      liveServer : "https://gssc-lms.onrender.com/",
+      github : "https://github.com/Being-Nayem/GSSC-Library-Management-System"
     },
 ];
 

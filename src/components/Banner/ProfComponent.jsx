@@ -21,7 +21,7 @@ const ProfComponent = () => {
           To use my expertise in programming languages such as Python, C, and C++, as well as my knowledge of development methodologies such as Agile and Scrum, to land a challenging programming position at a dynamic and forward-thinking company where I can make a significant impact through the design, implementation, and deployment of innovative software solutions.
 
           </p>
-          <a href="https://drive.google.com/file/d/1-T7t5HHBjHWMgpRp1dT-t08SjT8LIHxf/view?usp=sharing">
+          <a href="https://drive.google.com/file/d/10HjBHQ1NDX5iNltSZd4kC7sTTW92RpUm/view?usp=sharing">
             <button>Get Resume</button>
           </a>
           <Social>
